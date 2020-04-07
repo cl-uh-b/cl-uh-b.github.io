@@ -1,1 +1,10 @@
+title: CL-UH-B
+description: 
+google_analytics:
+show_downloads: false
 theme: jekyll-theme-cayman
+github:
+  is_project_page: true
+  repository_url: https://github.com/cl-uh-b/cl-uh-b.github.io
+gems:
+  - jekyll-mentions
