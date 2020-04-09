@@ -36,6 +36,13 @@ The goal of Milestone 1 was to deploy our system to [Galaxy](https://galaxy.mete
 
 ![](doc/project-board-m1.png)
 
+#### Mockups
+The following are mockups of Browse Clubs and I'm Feeling Lucky in their respective order.
+<div class="ui center small images">
+  <img class="ui image" src="/doc/mockups/browseclub-mockup.png">
+  <img class="ui image" src="/doc/mockups/lucky-mockup.png">
+</div>
+
 ### Milestone 2
 ### Milestone 3
 
