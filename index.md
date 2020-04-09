@@ -47,7 +47,7 @@ The following are mockups of Browse Clubs and I'm Feeling Lucky in their respect
 ### Milestone 3
 
 ## The Developers
-* [Juliam Kim](https://github.com/julianki-cs)
+* [Julian Kim](https://github.com/julianki-cs)
 * [Anh Le](https://github.com/lekanh)
 * [Kevin Nguyen](https://github.com/kvndngyn)
 * [Tiffany Williams](https://github.com/tiffanywilliams)
