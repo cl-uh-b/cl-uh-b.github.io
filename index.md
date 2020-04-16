@@ -14,11 +14,41 @@
 * [Uniforms](htttps://uniforms.tools) for React and Semantic UI-based form design and display
 
 ## User Guide
-This section provides a walkthrough of the CL-UH-B user interface and its capabilites. 
+This section provides a walkthrough of the CL-UH-B user interface and its capabilites. You may get to the direct site by clicking on the section header. 
+*Note: You will need to be logged into the correct accounts for certain pages.
 
-### Landing Page
+### [Landing Page](http://cluhb.meteorapp.com/#/)
 The first page that students will see upon visiting the site.
 ![](doc/landing.png)
+
+### [Sign in & Sign up](http://cluhb.meteorapp.com/#/signin)
+This page is where users can sign in or sign up.
+![](doc/sign-in-up.png)
+
+### [Browse Clubs](http://cluhb.meteorapp.com/#/browse)
+This page allows students to search and filter for clubs.
+![](doc/browse-clubs.png)
+
+### [Favorites](http://cluhb.meteorapp.com/#/favorites)
+This page shows clubs that have been favorites
+![](doc/favorites.png)
+
+### [I'm Feeling Lucky!](http://cluhb.meteorapp.com/#/im-feeling-lucky)
+This page randomly shows a club based on the user's interest.
+![](doc/im-feeling-lucky.png)
+
+### [Add Club](http://cluhb.meteorapp.com/#/add)
+This page allows user's to add clubs if theirs is not listed.
+![](doc/add-club.png)
+
+### [My Clubs](http://cluhb.meteorapp.com/#/my-clubs)
+This page allows club owners to quick view their club and ratings.
+![](doc/my-clubs.png)
+
+### [Admin](http://cluhb.meteorapp.com/#/admin)
+This page allows admins to quickly review and delete clubs.
+![](doc/admin.png)
+
 
 ## Community Feedback
 There always imporvements that can be made, please share your feedback [here](https://forms.gle/tP18KSG3wHUXM87B9)! We would like to gather how users feel about the system so that we can further improve it and make it better to use.
@@ -95,12 +125,28 @@ Below are the goals for CL-UH-B (06 April 2020):
 
 You may check out [CL-UH-B here](http://cluhb.meteorapp.com/#/).
 
+The development process for CL-UH-B conformed to [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314f19/modules/project-management/) practices. In a nutshell:
+
+* Development consists of a sequence of Milestones.
+* Each Milestone is specified as a set of tasks.
+* Each task is described using a GitHub Issue, and is assigned to a single developer to complete.
+* Tasks should typically consist of work that can be completed in 2-4 days.
+* The work for each task is accomplished with a git branch named "issue-XX", where XX is replaced by the issue number.
+* When a task is complete, its corresponding issue is closed and its corresponding git branch is merged into master.
+* The state (todo, in progress, complete) of each task for a milestone is managed using a GitHub Project Board.
+
+The following sections document the development history of CL-UH-B.
+
 ### Milestone 1: Mockup and Deployment
 The goal of Milestone 1 was to deploy our system to [Galaxy](https://galaxy.meteor.com/) with a completed landing page and mockups. You can find our [Project Board M1 here](https://github.com/cl-uh-b/cl-uh-b/projects/1).
 
 ![](doc/project-board-m1.png)
 
-### Milestone 2
+### Milestone 2: Functionality Improvements
+The goal of Milestone 2 was to improve on the functionality of our mockups. You can find our [Project Board M2 here](https://github.com/cl-uh-b/cl-uh-b/projects/2).
+
+![](doc/project-board-m2.png)
+
 ### Milestone 3
 
 ## The Developers
