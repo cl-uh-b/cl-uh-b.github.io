@@ -56,7 +56,7 @@ The [config](https://github.com/cl-uh-b/cl-uh-b/tree/master/config) directory is
 
 This file contains default definitions for Profiles and Clubs.
  
-The settings.development.json file contains a field called "loadAssetsFile". It is set to false, but if you change it to true, then the data in the file app/private/data.json will also be loaded.  The code to do this illustrates how to initialize a system when the initial data exceeds the size limitations for the settings file.
+The settings.development.json file contains a field called "loadAssetsFile". This allows us to use the club.json file to load all the club data.
 
 
 ## Quality Assurance
