@@ -8,10 +8,10 @@
 
 ## Overview
 [CL-UH-B](http://cluhb.meteorapp.com/#/) is a website for students at the University of Hawaii at Manoa to find clubs to join. Manoa students can login to browse a well organized directory of all current student clubs, with brief descriptions, meeting times and locations, URLs to their websites (if any), contact information for officers, and a few select photos. The application uses various technologies including: 
-*[Meteor](https://www.meteor.com) for Javascript-based implementation of client and server code.
-*[React](https://reactjs.org) for component-based UI implmentation and routing
-*[Semantic UI React](https://react.semantic-ui.com) CSS Framework for UI design
-*[Uniforms](htttps://uniforms.tools) for React and Semantic UI-based form design and display
+* [Meteor](https://www.meteor.com) for Javascript-based implementation of client and server code.
+* [React](https://reactjs.org) for component-based UI implmentation and routing
+* [Semantic UI React](https://react.semantic-ui.com) CSS Framework for UI design
+* [Uniforms](htttps://uniforms.tools) for React and Semantic UI-based form design and display
 
 ## User Guide
 This section provides a walkthrough of the CL-UH-B user interface and its capabilites. 
