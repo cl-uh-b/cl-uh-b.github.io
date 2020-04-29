@@ -34,10 +34,10 @@ This page randomly shows a club based on the user's interest.
 ![](doc/lucky.png)
 
 ## [Profile](http://cluhb.meteorapp.com/#/profile)
-This page lets users see their account information, favorites
+This page lets users see their account information, favorites...
 ![](doc/profile-favorites.png)
 
-and
+and recommends clubs based on interest.
 ![](doc/profile-recommend.png)
 
 ## [Edit Profile](http://cluhb.meteorapp.com/#/profile)
