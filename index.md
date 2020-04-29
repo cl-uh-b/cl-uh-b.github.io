@@ -23,31 +23,46 @@ The first page that students will see upon visiting the site.
 
 ### [Sign in & Sign up](http://cluhb.meteorapp.com/#/signin)
 This page is where users can sign in or sign up.
-![](doc/sign-in-up.png)
+![](doc/signinandup.png)
 
 ### [Browse Clubs](http://cluhb.meteorapp.com/#/browse)
 This page allows students to search and filter for clubs.
-![](doc/browse-clubs.png)
-
-### [Favorites](http://cluhb.meteorapp.com/#/favorites)
-This page shows clubs that have been favorites
-![](doc/favorites.png)
+![](doc/browse.png)
 
 ### [I'm Feeling Lucky!](http://cluhb.meteorapp.com/#/im-feeling-lucky)
 This page randomly shows a club based on the user's interest.
-![](doc/im-feeling-lucky.png)
+![](doc/lucky.png)
+
+## [Profile](http://cluhb.meteorapp.com/#/profile)
+This page lets users see their account information, favorites
+![](doc/profile-favorites.png)
+
+and
+![](doc/profile-recommend.png)
+
+## [Edit Profile](http://cluhb.meteorapp.com/#/profile)
+This page lets users edit basic account information
+![](doc/editprofile.png)
 
 ### [Add Club](http://cluhb.meteorapp.com/#/add)
 This page allows user's to add clubs if theirs is not listed.
-![](doc/add-club.png)
+![](doc/addclub.png)
 
 ### [My Clubs](http://cluhb.meteorapp.com/#/my-clubs)
 This page allows club owners to quick view their club and ratings.
-![](doc/my-clubs.png)
+![](doc/myclubs.png)
+
+### [Edit Club](http://cluhb.meteorapp.com/#/my-clubs)
+This page allows club owners to make edits to their club.
+![](doc/editclub.png)
 
 ### [Admin](http://cluhb.meteorapp.com/#/admin)
 This page allows admins to quickly review and delete clubs.
-![](doc/admin.png)
+![](doc/browseadmin.png)
+
+### [Submissions](http://cluhb.meteorapp.com/#/submissions)
+This page allows admins to either accept or deny club request.
+![](doc/submissions.png)
 
 
 ## Community Feedback
@@ -138,7 +153,7 @@ The development process for CL-UH-B conformed to [Issue Driven Project Managemen
 The following sections document the development history of CL-UH-B.
 
 ### Milestone 1: Mockup and Deployment
-The goal of Milestone 1 was to deploy our system to [Galaxy](https://galaxy.meteor.com/) with a completed landing page and mockups. You can find our [Project Board M1 here](https://github.com/cl-uh-b/cl-uh-b/projects/1).
+The goal of Milestone 1 was to deploy our system to [Galaxy](https://galaxy.meteor.com/) with a completed landing page and mockups. You can find our [Project Board M1 here](https://github.com/cl-uh-b/cl-uh-b/projects/1). You may view the [mockups here](doc/mockups).
 
 ![](doc/project-board-m1.png)
 
@@ -148,6 +163,9 @@ The goal of Milestone 2 was to improve on the functionality of our mockups. You 
 ![](doc/project-board-m2.png)
 
 ### Milestone 3
+The goal of Milestone 3 was to significantly improve our system and gain feedback. You can find our [Project Board M3 here](https://github.com/cl-uh-b/cl-uh-b/projects/3).
+
+![](doc/project-board-m3.png)
 
 ## The Developers
 All developers are current ICS students at the University of Hawaii at Manoa and have their foundation built from courses taken here.
