@@ -29,14 +29,17 @@ This page is where users can sign in or sign up.
 ![](doc/signinandup.png)
 
 ### [Browse Clubs](http://cluhb.meteorapp.com/#/browse)
-This page allows students to search and filter for clubs.
+This page allows students to search and filter for clubs...
 ![](doc/browse.png)
+
+and by clicking on "Click For More Info"
+![](doc/more-info.png)
 
 ## [Profile](http://cluhb.meteorapp.com/#/profile)
 This page lets users see their account information, favorites...
 ![](doc/profile-favorites.png)
 
-recommends clubs based on interest...
+recommend clubs based on interest...
 ![](doc/profile-recommended.png)
 
 or if you're feeling lucky
@@ -72,13 +75,13 @@ There always imporvements that can be made, please share your feedback [here](ht
 
 No product is ever perfect. Here is some feedback from 5 members of the UH community:
 
-##### 1 Rainbow Warrior
+##### 1 Anonymous Rainbow Warrior
 The following review came prior to the final product and was used to help relocate some of our features:
 "One suggestion I have is on your homepage, there's those 3 columns with a ton of info next to each other. I'd suggest splitting them up"
 "The im feeling lucky seems kinda out of place"
 "I like it though, I think functionality wise everything is good"
 
-#### 2 Rainbow Warrior
+#### 2 Anonymous Rainbow Warrior
 "I like the I'm feeling lucky random club thing in the profile, but maybe move it to the browsing clubs tab"
 "For browsing clubs, could there also be a way to choose the majors that the club specializes in?"
 "I like the look of it"
