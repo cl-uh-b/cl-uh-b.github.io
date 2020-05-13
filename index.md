@@ -32,16 +32,15 @@ This page is where users can sign in or sign up.
 This page allows students to search and filter for clubs.
 ![](doc/browse.png)
 
-### [I'm Feeling Lucky!](http://cluhb.meteorapp.com/#/im-feeling-lucky)
-This page randomly shows a club based on the user's interest.
-![](doc/lucky.png)
-
 ## [Profile](http://cluhb.meteorapp.com/#/profile)
 This page lets users see their account information, favorites...
 ![](doc/profile-favorites.png)
 
-and recommends clubs based on interest.
-![](doc/profile-recommend.png)
+recommends clubs based on interest...
+![](doc/profile-recommended.png)
+
+or if you're feeling lucky
+![](doc/profile-lucky.png)
 
 ## [Edit Profile](http://cluhb.meteorapp.com/#/profile)
 This page lets users edit basic account information
@@ -70,6 +69,23 @@ This page allows admins to either accept or deny club request.
 
 ## Community Feedback
 There always imporvements that can be made, please share your feedback [here](https://forms.gle/tP18KSG3wHUXM87B9)! We would like to gather how users feel about the system so that we can further improve it and make it better to use.
+
+No product is ever perfect. Here is some feedback from 5 members of the UH community:
+
+##### 1 Rainbow Warrior
+The following review came prior to the final product and was used to help relocate some of our features:
+"One suggestion I have is on your homepage, there's those 3 columns with a ton of info next to each other. I'd suggest splitting them up"
+"The im feeling lucky seems kinda out of place"
+"I like it though, I think functionality wise everything is good"
+
+#### 2 Rainbow Warrior
+"I like the I'm feeling lucky random club thing in the profile, but maybe move it to the browsing clubs tab"
+"For browsing clubs, could there also be a way to choose the majors that the club specializes in?"
+"I like the look of it"
+
+#### 3
+#### 4
+#### 5
 
 ## Developer Guide
 This section provides information of interest to Meteor developers wishing to use this code base as a basis for their own development tasks.
@@ -138,7 +154,7 @@ Below are the goals for CL-UH-B (06 April 2020):
 * Ability to add/edit clubs
 * Filter clubs to specific interest(s)
 * Importing the current RIO spreadsheet into the club database
-* User can add/remove interest to their profile to view clubs for them in "Clubs for You!" page 
+* User can add/remove interest to their profile to view clubs for them in "Recommended for You" page 
 * A "I'm feeling lucky!" button
 
 You may check out [CL-UH-B here](http://cluhb.meteorapp.com/#/).
@@ -169,6 +185,10 @@ The goal of Milestone 2 was to improve on the functionality of our mockups. You 
 The goal of Milestone 3 was to significantly improve our system and gain feedback. You can find our [Project Board M3 here](https://github.com/cl-uh-b/cl-uh-b/projects/3).
 
 ![](doc/project-board-m3.png)
+
+### Further Enhancements
+* Add a Major category to clubs and implement a filter for it.
+* Let users upload images for pictures rather than links.
 
 ## The Developers
 All developers are current ICS students at the University of Hawaii at Manoa and have their foundation built from courses taken here.
