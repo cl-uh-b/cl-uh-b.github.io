@@ -75,7 +75,7 @@ There always imporvements that can be made, please share your feedback [here](ht
 
 No product is ever perfect. Here is some feedback from 5 members of the UH community:
 
-##### 1 Anonymous Rainbow Warrior
+#### 1 Anonymous Rainbow Warrior
 The following review came prior to the final product and was used to help relocate some of our features:
 "One suggestion I have is on your homepage, there's those 3 columns with a ton of info next to each other. I'd suggest splitting them up"
 "The im feeling lucky seems kinda out of place"
@@ -86,9 +86,18 @@ The following review came prior to the final product and was used to help reloca
 "For browsing clubs, could there also be a way to choose the majors that the club specializes in?"
 "I like the look of it"
 
-#### 3
-#### 4
-#### 5
+#### 3 Anonymous Rainbow Wahine
+"Maybe also dividing the interests up by major. I was searching "engineering" but didn't think to search "engineers", so I didn't see a lot of clubs"
+"The favorites, recommended, and "I'm feeling lucky" are really nice features. The default profile picture also deeply resonated with me."
+
+#### 4 Anonymous Rainbow Wahine
+"Maybe the "decor," it could maybe be spiced up a bit?"
+"It was very simple and easy to navigate, I had no trouble finding my way around."
+"This website seems more useful and user friendly  than some of the actual UH websites."
+
+#### 5 Anonymous Rainbow Warrior
+"The moving background caught my attention, as well as the real-time typing of "There's a club waiting for you."
+"The site is fantastic"
 
 ## Developer Guide
 This section provides information of interest to Meteor developers wishing to use this code base as a basis for their own development tasks.
@@ -192,6 +201,7 @@ The goal of Milestone 3 was to significantly improve our system and gain feedbac
 ### Further Enhancements
 * Add a Major category to clubs and implement a filter for it.
 * Let users upload images for pictures rather than links.
+* Allow users to add interest upon registration
 
 ## The Developers
 All developers are current ICS students at the University of Hawaii at Manoa and have their foundation built from courses taken here.
